@@ -1,0 +1,31 @@
+- [[Deploy]]
+- [[Development]]
+- [[Singularity]]
+- Document
+   - Googleサイト (https://sites.google.com/a/g.nig.ac.jp/newsakura/)
+   - パワポ ( https://docs.google.com/a/esm.co.jp/viewer?a=v&pid=sites&srcid=Zy5uaWcuYWMuanB8bmV3c2FrdXJhfGd4OjQ3YzgzZGZmMGQxNDcwZGY )
+   - Dway連携API (https://esminc.copi.pe/pastes/907)
+   - [[平成27年度作業報告書]]
+   - [[平成28年度作業報告書]]
+   - [[平成29年度作業報告書]]
+   - [[平成30年度納品ドキュメント]]
+      - [[平成30年度Singularity対応作業報告書]]
+      - [[平成30年度保守作業報告書]]
+      - [[インストールおよび運用マニュアル]]
+        - [[デプロイ手順]]
+        - [[MongoDB・Unicorn 起動・停止・再起動手順]]
+        - [[本番環境とステージング環境でのRailsConsoleの起動方法]]
+        - [[state ファイル作成方法]]
+        - [[国リスト更新手順]]
+        - [[MongoDB バックアップ・リストア手順書]]
+        - 開発環境構築手順
+          - https://github.com/ddbj/sakura/wiki/Development
+        - [[Singularityコンテナを利用したDeasy環境構築手順書]]
+        - [[taxdump 取得方法の設定]]
+        - [[外部ホストのSubmission出力をスパコンに設置する設定]]
+      - 保守のドキュメント
+        - [[common_rules.rb と templates.rb の更新手順]]
+        - [[transChecker バージョンアップ手順]]
+        - [[Java バージョン差し替え手順]]
+        - [[SMTPサーバー接続設定変更手順]]
+        - [[コンテナ差し替えによる MongoDB バージョンアップ手順 (3.6→4.0)]]
